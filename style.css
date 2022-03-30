@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/wp6474697.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.header{
+    color: rgb(14, 13, 13);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+#login{
+    background-color: aquamarine;
+    border-radius: 20px;
+    border-top:15px blue;
+    float: none;
+    
+}
+
+img{
+    width: 80px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
